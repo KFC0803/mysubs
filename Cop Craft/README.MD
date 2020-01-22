@@ -1,4 +1,4 @@
-![poster](poster.png)
+![poster](POSTER.png)
 
 
 # 全缉毒狂潮
