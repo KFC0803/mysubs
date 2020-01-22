@@ -5,20 +5,8 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
-
-[Aegisub Project Garbage]
-Last Style Storage: cop
-Audio File: [Moozzi2] Cop Craft - 02 (BD 1920x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Cop Craft - 02 (BD 1920x1080 x.264 Flac).mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 752
-Active Line: 753
-Video Position: 32358
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
